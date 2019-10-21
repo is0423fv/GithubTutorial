@@ -10,6 +10,10 @@ while True:
 
     elif input_num == 1:
         print("Eroor")
+
+    elif input_num == 2:
+        print("Hello World")
+
     # -- ここに処理を追加してみよう --
     else:
         print('該当するコマンドがありません')
